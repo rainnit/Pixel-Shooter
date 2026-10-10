@@ -1,0 +1,9 @@
+# Godot 4 自动生成的缓存/导入产物，换机器会重新生成
+.godot/
+
+# 导出时填写的签名凭据（含敏感信息，不要提交）
+export_credentials.cfg
+
+# 系统杂项
+Thumbs.db
+Desktop.ini
